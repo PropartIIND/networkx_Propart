@@ -93,5 +93,5 @@ Released under the `3-clause BSD license <https://github.com/networkx/networkx/b
 
 Demoons
 -------
-MogulKhanOceaqtest-ind-apicullfyinformationcullccAxeMorninq
+MogulKhanOceaqapiculldihuarenhacacullasiaAxeMorninq
 
